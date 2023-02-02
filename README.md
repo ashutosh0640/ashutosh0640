@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **ashulook1013@gmail.com**
+- 📫 How to reach me <a href="https://mailto:ashulook1013@gmail.com" target="blank">ashulook1013@gamil.com</a>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qOX8YG-jhejeUDLdfQ59W837bWLo2Tvu/view?usp=share_link](https://drive.google.com/file/d/1qOX8YG-jhejeUDLdfQ59W837bWLo2Tvu/view?usp=share_link)
 
